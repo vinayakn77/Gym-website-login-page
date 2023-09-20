@@ -1,2 +1,2 @@
 # Gym-website-login-page
-This is a login page for gym website using html and css.
+This is a login page demo for gym website using html and css.
